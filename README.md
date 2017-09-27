@@ -1,1 +1,2 @@
 # Scrape-Agri_crop-data-from-the-web-using-Stata
+This dofiles extract information of the geo-referenced location of farms in Jamaica from the web.  This data is obtained to understand what are the climate change effects on the farmers’ decision regarding crop production.
